@@ -24,6 +24,8 @@ This repository contains two implementations of APART-QSM method based on single
 
 ## Usage
 
+Recommended MATLAB version: MATLAB 9.7 (R2019a)
+
 APART_QSM_single_ori_demo.m is a demo for susceptibility separation using single orientation data. 
 
 APART_QSM_multi_ori_demo.m is a demo for susceptibility separation using multiple orientation data. 
