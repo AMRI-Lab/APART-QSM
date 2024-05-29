@@ -37,10 +37,15 @@ APART_QSM_multi_ori_demo.m is a demo for susceptibility separation using multipl
 For data acquired with 3D multi-echo GRE sequences, you should do the following preprocessing steps before running STI reconstruction codes in this repository:
 
 (1) Extract the tissue mask from magnitude images using FSL Bet.
+
 (2) Unwrap the raw phase data using Laplacian-based phase unwrapping in STI_Suite V3.0 toolbox.
+
 (3) Divide the background and local phase using VSHARP in STI_Suite V3.0 toolbox.
+
 (4) Co-register the magnitude images at different orientations to a reference orientation (supine position) using FSL FLIRT.
+
 (5) Apply the transform matrix to the corresponding local phase and calculate magnetic field direction (obtain B0_dirs).
+
 (6) Once the above steps are completed, you can run demos successfully as long as Nifti toolbox is installed and added to the path.
 
 ## License
