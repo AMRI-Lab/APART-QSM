@@ -50,8 +50,4 @@ For data acquired with 3D multi-echo GRE sequences, you should do the following 
 
 ## License
 
-Our software license is exclusively offered for academic research purposes and is expressly **NOT** intended for commercial or clinical use. To acquire the license, please email [sjtu.amri@gmail.com](mailto:sjtu.amri@gmail.com), providing your full name, affiliated institution, and the reason for renewal.
-
-## Contacts
-
-- [sjtu.amri@gmail.com](mailto:sjtu.amri@gmail.com)
+Suspend license issuance temporarily.
